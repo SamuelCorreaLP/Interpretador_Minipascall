@@ -1,0 +1,5 @@
+program triangle;
+begin
+  abc := 10;
+  write(abc)
+end.

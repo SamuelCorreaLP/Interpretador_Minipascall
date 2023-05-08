@@ -1,0 +1,10 @@
+program triangle;
+
+var
+  a = 1;
+begin
+  if (1 + 1) <= 2 and (1 + 1) >= 2 and (1 + 1) > 2 then
+    begin
+	  writeln('is an invalid triangle')
+	end
+end.

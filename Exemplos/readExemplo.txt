@@ -1,0 +1,8 @@
+program triangle;
+
+var
+ a, b, c;
+begin
+  a := 12;
+  writeln(a)
+end.
